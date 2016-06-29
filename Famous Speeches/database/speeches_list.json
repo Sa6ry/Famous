@@ -1,0 +1,121 @@
+ [
+  {
+  "name": "Reception in Madras",
+  "date": "April 21, 1915",
+  "by": "Mohandas K. Gandhi",
+  "image": "gandhi.jpg",
+  "file": "reception_in_madras.txt"
+  },
+  {
+  "name": "Farewell to Baseball Address",
+  "date": "July 4, 1939",
+  "by": "Lou Gehrig",
+  "image": "Lou_Gehrig.jpg",
+  "file": "farewell_baseball.txt"
+  },
+  {
+  "name": "The Third Philippic",
+  "date": "342 B.C.",
+  "by": "Demosthenes",
+  "image": "Demosthenes.jpg",
+  "file": "Demosthenes.txt"
+  },
+  {
+  "name": "Surrender Speech",
+  "date": "October 5, 1877",
+  "by": "Chief Joseph",
+  "image": "chief_Joseph.png",
+  "file": "Surrender_Speech.txt"
+  },
+  {
+  "name": "Stanford U graduation",
+  "date": "June 12, 2005",
+  "by": "Steve Jobs",
+  "image": "steve_jobs.jpg",
+  "file": "stanford_graduation.txt"
+  },
+  {
+  "name": "We Shall Fight on the Beaches",
+  "date": "June 4, 1940",
+  "by": "Winston Churchill",
+  "image": "wscparl.jpg",
+  "file": "shall_fight.txt"
+  },
+  
+  
+  
+  {
+  "name": "Reception in Madras",
+  "date": "April 21, 1915",
+  "by": "Mohandas K. Gandhi",
+  "image": "gandhi.jpg",
+  "file": "reception_in_madras.txt"
+  },
+  {
+  "name": "Stanford U graduation",
+  "date": "June 12, 2005",
+  "by": "Steve Jobs",
+  "image": "steve_jobs.jpg",
+  "file": "reception_in_madras.txt"
+  },
+  {
+  "name": "We Shall Fight on the Beaches",
+  "date": "June 4, 1940",
+  "by": "Winston Churchill",
+  "image": "wscparl.jpg",
+  "file": "reception_in_madras.txt"
+  },
+  {
+  "name": "Farewell to Baseball Address",
+  "date": "July 4, 1939",
+  "by": "Lou Gehrig",
+  "image": "Lou_Gehrig.jpg",
+  "file": "reception_in_madras.txt"
+  },
+  {
+  "name": "Demosthenes",
+  "date": "342 B.C.",
+  "by": "The Third Philippic",
+  "image": "Demosthenes.jpg",
+  "file": "reception_in_madras.txt"
+  },
+  
+  
+  {
+  "name": "Reception in Madras",
+  "date": "April 21, 1915",
+  "by": "Mohandas K. Gandhi",
+  "image": "gandhi.jpg",
+  "file": "reception_in_madras.txt"
+  },
+  {
+  "name": "Stanford U graduation",
+  "date": "June 12, 2005",
+  "by": "Steve Jobs",
+  "image": "steve_jobs.jpg",
+  "file": "reception_in_madras.txt"
+  },
+  {
+  "name": "We Shall Fight on the Beaches",
+  "date": "June 4, 1940",
+  "by": "Winston Churchill",
+  "image": "wscparl.jpg",
+  "file": "reception_in_madras.txt"
+  },
+  {
+  "name": "Farewell to Baseball Address",
+  "date": "July 4, 1939",
+  "by": "Lou Gehrig",
+  "image": "Lou_Gehrig.jpg",
+  "file": "reception_in_madras.txt"
+  },
+  {
+  "name": "Demosthenes",
+  "date": "342 B.C.",
+  "by": "The Third Philippic",
+  "image": "Demosthenes.jpg",
+  "file": "reception_in_madras.txt"
+  },
+  
+  ]
+
