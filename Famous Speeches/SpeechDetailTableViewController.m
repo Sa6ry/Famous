@@ -39,7 +39,8 @@
     
     self.tableView.rowHeight = UITableViewAutomaticDimension;
     self.tableView.estimatedRowHeight = 240;
-    self.tableView.tableFooterView = [[UIView alloc] init];
+    // hide lines and add padding to the bottom
+    self.tableView.tableFooterView = [[UIView alloc] initWithFrame:CGRectMake(0, 0, 20, 20)];
     
     self.imageView.image = self.speech.image;
     self.titleLabel.text = self.speech.name;
