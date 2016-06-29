@@ -44,7 +44,6 @@ static NSString * const reuseIdentifier = @"Cell";
     // Dispose of any resources that can be recreated.
 }
 
-
 #pragma mark - Navigation
 
 -(UIImageView*) selectedImageView
@@ -130,15 +129,14 @@ static NSString * const reuseIdentifier = @"Cell";
     
     if (self.view.traitCollection.horizontalSizeClass == UIUserInterfaceSizeClassCompact) {
         // Compact width
-        if (UIDeviceOrientationIsLandscape([UIDevice currentDevice].orientation))
-        {
-            // landscape
-            noOfColumns = 3;
-        }
-        else
-        {
-            // Portait
+        
+        
+        if(self.view.traitCollection.verticalSizeClass == UIUserInterfaceSizeClassRegular) {
+            // regular height
             noOfColumns = 2;
+        }else {
+            // compact height
+            noOfColumns = 3;
         }
     }
     else {

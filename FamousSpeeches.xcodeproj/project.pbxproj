@@ -135,6 +135,7 @@
 		1F2D4F1A1D21184C00DFA1C6 /* Famous Speeches */ = {
 			isa = PBXGroup;
 			children = (
+				1F2D4F921D23778700DFA1C6 /* Helpers */,
 				1F2D4F6C1D218E1600DFA1C6 /* UI */,
 				1F2D4F5F1D2124B400DFA1C6 /* Database */,
 				1F2D4F1E1D21184C00DFA1C6 /* AppDelegate.h */,
@@ -222,8 +223,6 @@
 		1F2D4F6B1D218E0B00DFA1C6 /* Speech Details */ = {
 			isa = PBXGroup;
 			children = (
-				1F2D4F811D22781000DFA1C6 /* MaxCountWordFinder.h */,
-				1F2D4F821D22781000DFA1C6 /* MaxCountWordFinder.m */,
 				1F2D4F7B1D21DAC000DFA1C6 /* SpeechDetailTableViewController.h */,
 				1F2D4F7C1D21DAC000DFA1C6 /* SpeechDetailTableViewController.m */,
 				1F2D4F7E1D21FA5700DFA1C6 /* SpeechDetailAnimator.h */,
@@ -249,6 +248,15 @@
 				1F2D4F741D21A73000DFA1C6 /* DismissSegue.m */,
 			);
 			name = common;
+			sourceTree = "<group>";
+		};
+		1F2D4F921D23778700DFA1C6 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				1F2D4F811D22781000DFA1C6 /* MaxCountWordFinder.h */,
+				1F2D4F821D22781000DFA1C6 /* MaxCountWordFinder.m */,
+			);
+			name = Helpers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

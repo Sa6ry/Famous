@@ -2,11 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "hief_Joseph.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
+      "filename" : "hief_Joseph.png",
       "scale" : "2x"
     },
     {

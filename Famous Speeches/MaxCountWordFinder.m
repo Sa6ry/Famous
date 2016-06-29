@@ -71,7 +71,7 @@
                                   NSUInteger wordCount = [[wordCountDic valueForKey:subStringLowerCase] integerValue];
                                   wordCount = wordCount + 1;
                                   [wordCountDic setValue:@(wordCount) forKey:subStringLowerCase];
-                                  if(maxWordCount < wordCount) {
+                                  if(maxWordCount <= wordCount) {
                                       maxWordString = subString;
                                   }
                                   maxWordCount = MAX(maxWordCount, wordCount);
