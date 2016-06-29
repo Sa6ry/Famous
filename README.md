@@ -32,6 +32,6 @@ The Code is known to work best with iOS 9.0 on iPhone & iPad devices, it haven't
 - The transition animation between the view controllers isn't perfect! could be enhanced to be more smooth
 
 # ISSUES
-- Text in UITextView is hidden with long speeches. Exactly if it's height exceed 8192.0. I didn't have time to fix this bug. More about the bug is here http://stackoverflow.com/questions/23582497/uitextview-text-becomes-invisible-after-height-reaches-8192-0
+- **Happens in simulator only!** Text in UITextView is hidden with long speeches. Exactly if it's height exceed 8192.0. I didn't have time to fix this bug. More about the bug is here http://stackoverflow.com/questions/23582497/uitextview-text-becomes-invisible-after-height-reaches-8192-0
 
 
