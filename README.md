@@ -1,5 +1,5 @@
 # Famous Speeches
-Famous Speeches, is an app that gives access for the user to a list of speeches stored locally. The speech along with it's text is associated with basic information
+Famous Speeches, an iOS app aims to give the user access to the Famous speeches in history. The speech along with it's text is associated with basic information:
 -	Name
 - Date
 -	Speaker
