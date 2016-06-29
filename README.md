@@ -5,7 +5,7 @@ Famous Speeches, is an app that gives access for the user to a list of speeches 
 -	Speaker
 -	Words of speech: Representing the most used word in the speech!
 
-# Data ClassesS
+# Data Classes
 - **Speech**: Hold information regarding the speech (name, date, speaker, image, text file). This class is being used throughout the App to get the speeches information
 - **DatabaseManager**: Nothing fancy, mainly loading a json file containing all the speeches information
 
